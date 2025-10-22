@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "doit-A-todo-App",
-    "slug": "doit-A-todo-App",
+    "slug": "doit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "4d7504b4-0ff3-4273-a5e7-1be2e617b5e0"
+      }
+    },
+    "owner": "sammydamz"
   }
 }
